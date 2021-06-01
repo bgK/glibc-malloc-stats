@@ -5,11 +5,12 @@
     <parent>
         <artifactId>glibc-malloc-stats-parent</artifactId>
         <groupId>io.kemtoa</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>glibc-malloc-stats-jni</artifactId>
+    <name>${project.groupId}:${project.artifactId}</name>
 
     <build>
         <plugins>

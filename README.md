@@ -19,7 +19,7 @@ Maven dependency:
 <dependency>
     <groupId>io.kemtoa</groupId>
     <artifactId>glibc-malloc-stats</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 
