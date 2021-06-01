@@ -7,7 +7,7 @@
     <groupId>io.kemtoa</groupId>
     <artifactId>glibc-malloc-stats-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>${project.groupId}:${project.artifactId}</name>
 
     <description>An utility for retrieving the JVM's malloc statistics when using glibc malloc.</description>
